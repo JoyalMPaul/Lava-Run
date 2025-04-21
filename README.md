@@ -24,7 +24,12 @@ The player has limited amount of time as the lava keeps rising, and if the playe
 
 ![Lava Run Final GUI](https://github.com/Joyal11Paul/projects/raw/main/Lava_Run%20-%20CS_110/template_final_project-master/assets/gui_final.png)
 
-## Program Design
+## How to Use
+
+1. Download the pygame library using `pip install pygame`
+2. Open your preferred code editor and navigate to the `cd final-project-joyal-lava-run-main/template_final_project-master` to enter directory
+4. Run game: `py main.py`
+5. Instructions on how to play are below
 
 ### Features
 
