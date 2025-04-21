@@ -18,11 +18,11 @@ The player has limited amount of time as the lava keeps rising, and if the playe
 
 ### Initial Design
 
-![Lava Run GUI](https://raw.githubusercontent.com/JoyalMPaul/Lava_Run/main/final-project-joyal-lava-run-main/final-project-joyal-lava-run-main/template_final_project-master/assets/gui_original.jpg)
+![Lava Run GUI](https://github.com/Joyal11Paul/projects/raw/main/Lava_Run%20-%20CS_110/template_final_project-master/assets/gui_original.jpg)
 
 ### Final Design
 
-![Lava Run Final GUI](https://github.com/JoyalMPaul/Lava_Run/raw/main/final-project-joyal-lava-run-main/final-project-joyal-lava-run-main/template_final_project-master/assets/gui_final.png)
+![Lava Run Final GUI](https://github.com/Joyal11Paul/projects/raw/main/Lava_Run%20-%20CS_110/template_final_project-master/assets/gui_final.png)
 
 ## Program Design
 
