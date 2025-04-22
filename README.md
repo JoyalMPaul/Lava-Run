@@ -1,4 +1,4 @@
-# 🌋 Lava Run
+# 🌋 Inferno Rush
 ## CS-110 Final Project Fall, 2024 
 
 ## Team Members
