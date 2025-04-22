@@ -1,4 +1,4 @@
-# Lava Run
+# 🌋 Lava Run
 ## CS110 Final Project Fall, 2024 
 
 ## Team Members
